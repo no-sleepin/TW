@@ -1,0 +1,13 @@
+.flexcont{
+border: 2px solid black;
+display: flex;
+flex-wrap: wrap;
+}
+.shit{
+border: 1px dotted red;
+padding: 20px;
+margin: 20px;
+}
+h3{
+    
+}

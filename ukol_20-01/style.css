@@ -1,0 +1,10 @@
+.blok {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap-reverse;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.oranzova {
+align-self: center;
+}

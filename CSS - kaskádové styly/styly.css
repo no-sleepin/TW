@@ -1,0 +1,19 @@
+body{
+    background-color: azure;
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+p {
+    font-size: 17px;
+    text-align: justify;
+    font-style: italic;
+}
+h1, h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+h2 {
+    text-decoration-color: blue;
+}

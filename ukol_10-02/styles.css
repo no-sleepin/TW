@@ -1,0 +1,87 @@
+.body-index {
+background-image: url(https://wallpapers.com/images/featured-full/breaking-bad-80bjfb94bgadfr0p.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.body-bcs {
+    background-image: url(https://image.tmdb.org/t/p/w780/4lGA3jYfHhGVTW0PXny3wx8PSVR.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-fg{
+    background-image: url(https://wallpapers.com/images/featured-full/better-call-saul-80bjfb94bgadfr0p.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body-bb {
+    background-image: url(https://tse1.mm.bing.net/th?q=How+can+I+watch+Better+Call+Saul+online+free+in+2025+legally%3F);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    justify-content: center;
+    align-items: center;
+    size: 26px;
+    padding: 30px;
+    width: 300px;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    margin: 0  auto;
+}
+p {
+    background-color: black;
+    padding: 30px;
+    color: aliceblue;
+
+}
+ul {
+    background-color: black; opacity: 100%;
+    padding: 30px;
+}
+li {
+    background-color: black; 
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-direction: row;
+    margin: 0 auto;
+    width: 66%;
+    padding: 30px;
+    background-color: rgb(255, 0, 0);
+    color: aliceblue;
+    opacity: 100%;
+    flex-wrap: wrap;
+    border-radius: 15px;
+}
+
+.container2 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: flex-start;
+    margin: 0 auto;
+    width: 66%;
+    padding: 30px;
+    background-color: rgb(255, 0, 0);
+    color: aliceblue;
+    opacity: 100%;
+    flex-wrap: wrap;
+    border-radius: 15px;
+}
+
+.karta {
+    background-color: black;
+    color: aliceblue;
+    padding: 30px;
+    margin: 10px;
+    opacity: 100%;
+    width: 300px;
+    border-radius: 10px;
+    
+}

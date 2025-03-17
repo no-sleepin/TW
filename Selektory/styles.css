@@ -1,0 +1,39 @@
+p{
+    color:green;
+}
+
+h2{
+    background-color: lightgreen;
+}
+
+.muj-odstavec { 
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+}
+
+#nadpis {
+    text-align: right;
+    background-color: gold;
+    font-size: 25px;
+    font-style: italic;
+}
+
+#ramecek{
+    border: solid 1px red;
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+    background-color: rgb(131, 25, 87);
+    font-weight: bold;
+}
+a{
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.odkaz{
+    text-decoration: none;
+}

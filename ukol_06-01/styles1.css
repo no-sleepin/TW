@@ -1,0 +1,32 @@
+body {
+    margin: 0%;
+    height: 100vh;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/101/360/original/snowy-christmas-background-vector.jpg); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    background-color: rgba(0,0,0, 0.75);
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:chartreuse;
+    position: relative;
+    top: 200px;
+
+}
+
+p { 
+font-size: 24px;
+color:chartreuse;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+position: relative;
+    top: 200px;
+text-align: center;
+padding: 20px;
+background-color: rgba(0,0,0, 0.75);
+}
